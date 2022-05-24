@@ -8,5 +8,5 @@ terraform {
 }
 
 provider "harness" {
-  # Configuration options
+  features {}
 }
